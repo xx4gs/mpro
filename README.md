@@ -12,6 +12,7 @@ apk add git
 
 وتحمل الاداة 
 
+git clone https://github.com/xx4gs/mpro.git
 
 بعد ماتحمل الاداة تشغلها بطريقة ذي
 
